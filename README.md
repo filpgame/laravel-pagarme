@@ -46,9 +46,9 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/filpgame/laravel-pagarme.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/filpgame/laravel-pagarme/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/filpgame/laravel-pagarme.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/filpgame/laravel-pagarme.svg?style=flat-square
+[![Build Status](https://travis-ci.org/filpgame/laravel-pagarme.svg?branch=master)](https://travis-ci.org/filpgame/laravel-pagarme)
+[![Build Status](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/badges/build.png?b=master)](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/?branch=master)
 [ico-downloads]: https://img.shields.io/packagist/dt/filpgame/laravel-pagarme.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/filpgame/laravel-pagarme
