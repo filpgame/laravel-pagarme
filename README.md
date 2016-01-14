@@ -1,6 +1,6 @@
 # laravel-pagarme
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/filpgame/laravel-pagarme.svg?style=flat-square)](https://packagist.org/packages/filpgame/laravel-pagarme)
+[![Latest Stable Version](https://poser.pugx.org/filpgame/laravel-pagarme/v/stable)](https://packagist.org/packages/filpgame/laravel-pagarme)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://travis-ci.org/filpgame/laravel-pagarme.svg?branch=master)](https://travis-ci.org/filpgame/laravel-pagarme)
 [![Coverage Status](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/badges/build.png?b=master)](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/build-status/master)
